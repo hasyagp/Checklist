@@ -1,0 +1,1 @@
+export const backendUrl = "94.74.86.174:8080/api";
